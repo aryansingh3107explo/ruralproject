@@ -2,6 +2,8 @@
 
 GramConnect is a high-fidelity web application prototype designed for rural development and civic management. It empowers villagers to digitally report infrastructure, utility, and sanitation issues directly to local administrators, track resolution progress on an interactive timeline, and query vital village resources (schools, clinics, transport, water facilities) served directly from a relational database.
 
+
+Live demo - https://ruralhelparyan.insforge.site/ 
 ---
 
 ## 📂 Folder Structure
